@@ -1,0 +1,5 @@
+export const URL="https://jsonplaceholder.typicode.com/photos"
+
+
+
+
